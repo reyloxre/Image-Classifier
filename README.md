@@ -17,7 +17,7 @@
 ### 7. Basics of git, Devops and MLops 
 ### 8. Basics of NLP and Embeddings
 ### 9. Basics of Web Development (HTML, CSS, JavaScript)
-### 10. Few AWS features [S3, RDS, Lambda, Bedrock, Sagemaker, ECR, IAM]
+### 10. Few AWS services [S3, RDS, Lambda, Bedrock, Sagemaker, ECR, IAM]
 ### 11. OCR Pipelines for document and image processing
 ### Aint this enough?????
 
